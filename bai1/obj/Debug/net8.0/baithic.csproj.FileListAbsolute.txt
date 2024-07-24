@@ -1,0 +1,14 @@
+D:\rider\baithic\baithic\bin\Debug\net8.0\baithic.exe
+D:\rider\baithic\baithic\bin\Debug\net8.0\baithic.deps.json
+D:\rider\baithic\baithic\bin\Debug\net8.0\baithic.runtimeconfig.json
+D:\rider\baithic\baithic\bin\Debug\net8.0\baithic.dll
+D:\rider\baithic\baithic\bin\Debug\net8.0\baithic.pdb
+D:\rider\baithic\baithic\obj\Debug\net8.0\baithic.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider\baithic\baithic\obj\Debug\net8.0\baithic.AssemblyInfoInputs.cache
+D:\rider\baithic\baithic\obj\Debug\net8.0\baithic.AssemblyInfo.cs
+D:\rider\baithic\baithic\obj\Debug\net8.0\baithic.csproj.CoreCompileInputs.cache
+D:\rider\baithic\baithic\obj\Debug\net8.0\baithic.dll
+D:\rider\baithic\baithic\obj\Debug\net8.0\refint\baithic.dll
+D:\rider\baithic\baithic\obj\Debug\net8.0\baithic.pdb
+D:\rider\baithic\baithic\obj\Debug\net8.0\baithic.genruntimeconfig.cache
+D:\rider\baithic\baithic\obj\Debug\net8.0\ref\baithic.dll
